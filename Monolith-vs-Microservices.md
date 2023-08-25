@@ -17,7 +17,7 @@ So for a young startup, I would default to a monolith. Focus on building product
 
 References:
 
-https://www.myhatchpad.com/insight/monoliths-vs-microservices-whats-best-for-your-startup/
-https://www.n-ix.com/microservices-vs-monolith-which-architecture-best-choice-your-business/
-https://www.couchbase.com/blog/microservices-development-best-practices/
-https://martinfowler.com/articles/microservices.html
+- https://www.myhatchpad.com/insight/monoliths-vs-microservices-whats-best-for-your-startup/
+- https://www.n-ix.com/microservices-vs-monolith-which-architecture-best-choice-your-business/
+- https://www.couchbase.com/blog/microservices-development-best-practices/
+- https://martinfowler.com/articles/microservices.html
